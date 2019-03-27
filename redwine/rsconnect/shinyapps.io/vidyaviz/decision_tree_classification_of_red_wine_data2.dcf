@@ -1,0 +1,12 @@
+name: decision_tree_classification_of_red_wine_data2
+title: Decision tree classification of Red wine data
+username:
+account: vidyaviz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 810834
+bundleId: 1962280
+url: https://vidyaviz.shinyapps.io/decision_tree_classification_of_red_wine_data2/
+when: 1553482142.47281
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,12 @@
+name: redwine
+title: redwine
+username:
+account: vidyaviz1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 810831
+bundleId: 1962276
+url: https://vidyaviz1.shinyapps.io/redwine/
+when: 1553481911.20625
+asMultiple: FALSE
+asStatic: FALSE
